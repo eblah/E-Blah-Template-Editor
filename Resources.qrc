@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/">
+        <file>eblahicon.ico</file>
+    </qresource>
+    <qresource prefix="/Resources">
+        <file>Resources/new_doc.png</file>
+        <file>Resources/new_file.gif</file>
+        <file>Resources/open_thread.png</file>
+        <file>Resources/question.png</file>
+        <file>Resources/backup.png</file>
+        <file>Resources/binfo.png</file>
+    </qresource>
+    <qresource prefix="/MainImages">
+        <file>Resources/eblahlogo.png</file>
+    </qresource>
+</RCC>
